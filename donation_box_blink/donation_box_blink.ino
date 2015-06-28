@@ -13,10 +13,9 @@
   by Scott Fitzgerald
  */
 
-
 // the setup function runs once when you press reset or power the board
 void setup() {
-  // initialize digital pin 13 as an output.
+  // initialize digital pin 11 as an output.
   pinMode(11, OUTPUT);
 }
 
